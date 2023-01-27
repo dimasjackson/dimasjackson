@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dimasjackson
-- 👀 I’m interested in Physics and Data Science
+- 👀 I’m interested in Data Analytics, Data Science and Physics
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Wolfram Mathematica Language and Python projects
+- 💞️ I’m looking to collaborate on Python projects 
 - 💻 See my Kaggle notebooks: www.kaggle.com/dimasjackson
 
 <!---
