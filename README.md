@@ -4,11 +4,15 @@ Hi! I am a Data Analyst and a PhD candidate at São Paulo State University. I bu
 
 ## Skills:
 
- · Interpersonal communication/storytelling skills, analytical thinking, problem solving, time management, continuous learning, proactivity and teamwork.
- · Advanced knowledge in Python Power BI, DAX, SQL, Excel, Google Sheets, Extraction, Transformation and Loading (ETL).
- · Advanced knowledge of Probability and Statistics: Continuous and discrete random variables, Probability density function, hypothesis tests, linear algebra.
- · Advanced knowledge in Machine Learning: Regression, Classification, Clustering, Decision tree, Random forest, Boosting Strategies, Logistic regression, K-means, Naive Bayes, model validation, metrics.
- · Basic knowledge in R language, Git, Github, HTML, web scraping, Tableau, Cloud Computing.
+ * Interpersonal communication/storytelling skills, analytical thinking, problem solving, time management, continuous learning, proactivity and teamwork.
+ 
+ * Advanced knowledge in Python Power BI, DAX, SQL, Excel, Google Sheets, Extraction, Transformation and Loading (ETL).
+ 
+ * Advanced knowledge of Probability and Statistics: Continuous and discrete random variables, Probability density function, hypothesis tests, linear algebra.
+ 
+ * Advanced knowledge in Machine Learning: Regression, Classification, Clustering, Decision tree, Random forest, Boosting Strategies, Logistic regression, K-means, Naive Bayes, model validation, metrics.
+ 
+ * Basic knowledge in R language, Git, Github, HTML, web scraping, Tableau, Cloud Computing.
 
 ## Languages and Tools:
 
