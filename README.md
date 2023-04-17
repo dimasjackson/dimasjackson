@@ -4,25 +4,26 @@ Hi! I am a Data Analyst and a PhD candidate at São Paulo State University. I bu
 
 I am looking for a fulltime position in Data Analytics! 👀 
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 Data Analyst - Freelancer, 01/2023 - present (4 months).
 Duties: Extract data from APIs, clean data, analyze data, develop machine learning models, validate models, create interactive dashboards, write python code, create data visualizations, create descriptive statistics, report results, make recommendations.
 
 Researcher - CAPES, 03/2021 - present (2 years).
 Assignments: Analyze data, solve complex problems using data, write python codes, create data visualizations, elaborate statistical inferences, give oral presentations and write scientific papers.
 
-## EDUCATION
-PhD in Physics - São Paulo State University - UNESP, São Paulo-SP.
+## Education
+PhD in Physics - **São Paulo State University - UNESP**, São Paulo-SP, Brazil.
 03/2021 - present
 
-Master in Physics - Federal University of Lavras - UFLA, Lavras-MG.
+Master in Physics - **Federal University of Lavras - UFLA**, Lavras-MG, Brazil.
 03/2019 - 02/2021
 
-Bachelor in Physics - Federal University of Itajubá - UNIFEI, Itajubá-MG.
+Bachelor in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil.
 03/2016 - 02/2019
 
-## CERTIFICATIONS
-IBM Data Science Professional Certification
+## Certifications
+**IBM Data Science Professional Certification**
+
 Data Analysis with Python, Databases and SQL for Data Science, Python for Data Science and AI, Data Science Methodology, Tools for Data Science, Data Science Orientation.
 
 ## Skills:
