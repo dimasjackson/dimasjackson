@@ -12,22 +12,23 @@ Hi! I am a Data Analyst and a PhD candidate at São Paulo State University. I bu
 
 ## Professional Experience
 Data Analyst - Freelancer, 01/2023 - present.
-* Extract data from APIs, clean data, analyze data, develop machine learning models, validate models, create interactive dashboards, write python code, create data visualizations, create descriptive statistics, report results, make recommendations.
+* Extract data from APIs, clean data, analyze data, develop machine learning models, validate models, create interactive dashboards, write python code, create data visualizations, create descriptive statistics, report results.
 
-Researcher - CAPES, 03/2021 - present (2 years).
+PhD Fellow - CAPES, 03/2021 - 04/2023.
 * Analyze data, solve complex problems using data, write python codes, create data visualizations, elaborate statistical inferences, give oral presentations and write scientific papers.
 
 ## Education
+ 
 Ph.D in Physics - **São Paulo State University - UNESP**, São Paulo-SP, Brazil.
-03/2021 - present
+<br> 03/2021 - present
 
 M.S. in Physics - **Federal University of Lavras - UFLA**, Lavras-MG, Brazil.
-03/2019 - 02/2021
+<br> 03/2019 - 02/2021
 
 Bachelor in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil.
-03/2016 - 02/2019
+<br> 03/2016 - 02/2019
 
 ## Certifications
-**IBM Data Science Professional Certification**
-
-Data Analysis with Python, Databases and SQL for Data Science, Python for Data Science and AI, Data Science Methodology, Tools for Data Science, Data Science Orientation.
+[**IBM Data Science Professional Certification (v2)**](https://www.credly.com/badges/6efd515f-7553-4c12-b68b-34629b3d1cb6/public_url)
+<br> 01/2023 - 05/2023
+<br> Demonstrated ability to solve real-world problems, apply Data Science methodology, create Python apps, access relational databases using SQL, generate data visualizations, construct & evaluate Machine Learning (ML) models using Scikit-learn.
