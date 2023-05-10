@@ -32,3 +32,6 @@ Bachelor in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, 
 [**IBM Data Science Professional Certification (v2)**](https://www.credly.com/badges/6efd515f-7553-4c12-b68b-34629b3d1cb6/public_url)
 <br> 01/2023 - 05/2023
 <br> Demonstrated ability to solve real-world problems, apply Data Science methodology, create Python apps, access relational databases using SQL, generate data visualizations, construct & evaluate Machine Learning (ML) models using Scikit-learn.
+
+ [Find me in Linkedin!](https://www.linkedin.com/in/dimas-jackson/)
+ 
