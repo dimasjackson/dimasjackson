@@ -1,6 +1,6 @@
 # Dimas Jackson, M. S.
 
-Hi! I am a Data Analyst and a PhD candidate at São Paulo State University. I build solutions using Artificial Intelligence/Machine Learning in Python, manage datasets with SQL/DAX/Pandas and create interactive dashboards with Power BI to transform data into insights! 💻📊 📈
+Hi! I am a Data Engineer at Mackenzie and a PhD candidate in Physics at São Paulo State University UNESP. I build solutions in data extraction, transforming and loading process using PostgreSQL/Microsoft SQL Server and KNIME. I also worked with Machine Learning in Python, managing datasets with DAX/Pandas and creating interactive dashboards with Power BI to transform data into insights! 💻📊 📈
 
 ## Languages and Tools:
 
@@ -10,8 +10,11 @@ Hi! I am a Data Analyst and a PhD candidate at São Paulo State University. I bu
  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/114688989/234062456-fa6e0d8c-2db6-4c41-a826-643c8dcf588c.png" width="70" height="60"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/114688989/234062957-df43a902-5579-435f-b890-c03cf381712a.png" alt="git" width="70" height="60"/> </a> 
 
-## Professional Experience
-Data Analyst - Freelancer, 01/2023 - present.
+## Professional Experience 05/2023 - present
+Jr Data Engineer - Mackenzie University 
+* I have developed an ecosystem of communication between applications (APIs) and the database in a cloud-based serverless SQL environment. Additionally, I actively contribute to the implementation of Data Governance, designing processes, and standardizing catalogs, data extraction, transformation, and loading procedures.
+
+Data Analyst - Freelancer, 01/2023 - 05/2023.
 * Extract data from APIs, clean data, analyze data, develop machine learning models, validate models, create interactive dashboards, write python code, create data visualizations, create descriptive statistics, report results.
 
 PhD Fellow - CAPES, 03/2021 - 04/2023.
