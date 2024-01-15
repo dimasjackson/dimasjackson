@@ -28,19 +28,16 @@ HARD SKILLS
  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/114688989/234062957-df43a902-5579-435f-b890-c03cf381712a.png" alt="git" width="70" height="60"/> </a> 
 
 ## Professional Experience 
-* Data Engineer - Mackenzie Presbyterian University
-
-May 2023 - present (9 months) São Paulo, São Paulo, Brazil
+* **Data Engineer - Mackenzie Presbyterian University**\
+May 2023 - present (9 months) São Paulo, São Paulo, Brazil\
 I develop an ecosystem for communicating applications (APIs) with the SQL database, in the AWS cloud (serverless). I contribute to improving data mining at the institution, designing and standardizing the process of storing, cataloging, extracting, transforming and loading data.
 
-* Data Analyst - Freelance
-
-January 2023 - May 2023 (5 months) São Paulo, Brazil
+* **Data Analyst - Freelance**\
+January 2023 - May 2023 (5 months) São Paulo, Brazil\
 I generated insights from raw data, developing complex extraction, processing and analysis for BI consultancies, retail and education companies. Developed statistical analysis, Machine Learning models and interactive dashboards.
 
-* Doctoral Fellow - CAPES
-
-March 2019 - May 2023 (4 years 3 months) São Paulo-SP, Brazil
+* **Researcher - CAPES**\
+March 2019 - May 2023 (4 years 3 months) São Paulo-SP, Brazil\
 I analyzed data on Supernova distances and density parameters of the universe using Machine Learning and Python programming to solve complex problems in the Theory of General Relativity. I created data visualizations, developed Bayesian statistical inference, gave oral presentations of results and published scientific articles in high-impact international journals.
 
 ## Education
