@@ -1,6 +1,23 @@
 # Dimas Jackson, M. S.
 
-Hi! I am a Data Engineer at Mackenzie and a PhD candidate in Physics at São Paulo State University UNESP. I build solutions in data extraction, transforming and loading process using PostgreSQL/Microsoft SQL Server and KNIME. I also worked with Machine Learning in Python, managing datasets with DAX/Pandas and creating interactive dashboards with Power BI to transform data into insights! 💻📊 📈
+Hello! I'm a Data Engineer at @Mackenzie and a PhD student at São Paulo State University. I look for innovative solutions in data processing such as the use of language models (such as chat GPT) in the business sphere and Semantic Web technologies (Knowledge Graphs, RDF , Wikibase).
+
+Simultaneously, I have been working on an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database, combining the best features of both paradigms.
+
+Additionally, I design workflows for extracting, transforming and loading data using PostgreSQL, Python programming and the low-code KNIME Analytics tool. I have experience with Machine Learning and Power BI interactive dashboards to transform data into insights! 
+
+💻📊 📈
+
+SOFT SKILLS
+
+Analytical thinking, problem solving, time management, continuous learning, proactivity, communication/storytelling and teamwork.
+
+HARD SKILLS
+
+- PL/SQL, Python, KNIME, Power BI, Git, Excel, Extraction, Transformation and Data Loading (ETL), Wikibase, Knowledge Graphs, data cleaning.
+- Machine Learning: regression, classification, clustering, natural language processing, model evaluation metrics.
+- Probability and Statistics: Continuous and discrete random variables, probability density function, hypothesis testing, linear algebra.
+- Basic knowledge of cloud computing (AWS), Linux, Docker, R language, HTML, web scraping.
 
 ## Languages and Tools:
 
@@ -10,25 +27,31 @@ Hi! I am a Data Engineer at Mackenzie and a PhD candidate in Physics at São Pau
  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/114688989/234062456-fa6e0d8c-2db6-4c41-a826-643c8dcf588c.png" width="70" height="60"/> </a> 
  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/114688989/234062957-df43a902-5579-435f-b890-c03cf381712a.png" alt="git" width="70" height="60"/> </a> 
 
-## Professional Experience 05/2023 - present
-Jr Data Engineer - Mackenzie University 
-* I have developed an ecosystem of communication between applications (APIs) and the database in a cloud-based serverless SQL environment. Additionally, I actively contribute to the implementation of Data Governance, designing processes, and standardizing catalogs, data extraction, transformation, and loading procedures.
+## Professional Experience 
+* Data Engineer - Mackenzie Presbyterian University
 
-Data Analyst - Freelancer, 01/2023 - 05/2023.
-* Extract data from APIs, clean data, analyze data, develop machine learning models, validate models, create interactive dashboards, write python code, create data visualizations, create descriptive statistics, report results.
+May 2023 - present (9 months) São Paulo, São Paulo, Brazil
+I develop an ecosystem for communicating applications (APIs) with the SQL database, in the AWS cloud (serverless). I contribute to improving data mining at the institution, designing and standardizing the process of storing, cataloging, extracting, transforming and loading data.
 
-PhD Fellow - CAPES, 03/2021 - 04/2023.
-* Analyze data, solve complex problems using data, write python codes, create data visualizations, elaborate statistical inferences, give oral presentations and write scientific papers.
+* Data Analyst - Freelance
+
+January 2023 - May 2023 (5 months) São Paulo, Brazil
+I generated insights from raw data, developing complex extraction, processing and analysis for BI consultancies, retail and education companies. Developed statistical analysis, Machine Learning models and interactive dashboards.
+
+* Doctoral Fellow - CAPES
+
+March 2019 - May 2023 (4 years 3 months) São Paulo-SP, Brazil
+I analyzed data on Supernova distances and density parameters of the universe using Machine Learning and Python programming to solve complex problems in the Theory of General Relativity. I created data visualizations, developed Bayesian statistical inference, gave oral presentations of results and published scientific articles in high-impact international journals.
 
 ## Education
  
-Ph.D in Physics - **São Paulo State University - UNESP**, São Paulo-SP, Brazil.
+* Ph.D in Physics - **São Paulo State University - UNESP**, São Paulo-SP, Brazil.
 <br> 03/2021 - present
 
-M.S. in Physics - **Federal University of Lavras - UFLA**, Lavras-MG, Brazil.
+* M.S. in Physics - **Federal University of Lavras - UFLA**, Lavras-MG, Brazil.
 <br> 03/2019 - 02/2021
 
-Bachelor in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil.
+* Bachelor in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil.
 <br> 03/2016 - 02/2019
 
 ## Certifications
