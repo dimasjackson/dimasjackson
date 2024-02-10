@@ -52,7 +52,7 @@ January 2023 - May 2023 (5 months) São Paulo-SP, Brazil
 * Developed statistical analysis, describing the segmentation profile of Brazilian private schools for an education company
 
 ### Doctoral fellow - CAPES
-2021,2023 (2 years 3 months) São Paulo-SP, Brazil
+March 2021 - May 2023 (2 years 3 months) São Paulo-SP, Brazil
 * Analyzed data using Machine Learning, Bayesian statistical inference and Python programming to solve complex problems in the Theory of General Relativity.
 * I gave oral presentations of the results and published scientific articles in high-impact international journals (Qualis A1, JCR 6.4).
 
@@ -63,7 +63,7 @@ January 2023 - May 2023 (5 months) São Paulo-SP, Brazil
 
 * M.S. in Physics - **Federal University of Lavras - UFLA**, Lavras-MG, Brazil, 2021.
 
-* B. S. in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil, 2019.
+* B.S. in Physics - **Federal University of Itajubá - UNIFEI**, Itajubá-MG, Brazil, 2019.
 
 ## Certifications
 [**IBM Data Science Professional Certification (v2)**](https://www.credly.com/badges/6efd515f-7553-4c12-b68b-34629b3d1cb6/public_url), 2023.
