@@ -42,7 +42,7 @@ HARD SKILLS
 ### Data Engineer - Mackenzie Presbyterian University
 May 2023 - present. São Paulo-SP, Brazil
 * I am implementing new solutions using Artificial Intelligence (AI) and Knowledge Graphs that allow natural language search on the institution's data.
-* Developed feature and workflow improvements to enhance data processing and storage, increasing performance by up to 400% across data loads
+* Developed functions and storage procedures to enhance data processing and storage, increasing performance by up to 400% across data loads
 * Conducted a clustering analysis that allowed identifying patterns in the profiles of candidates for the entrance exam, with a focus on targeted marketing
 * I contributed to the writing of the technical standard and the process design for data Extraction Transformation and Loading, delivering better quality data.
 
