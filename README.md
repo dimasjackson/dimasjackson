@@ -1,23 +1,8 @@
 # Dimas Jackson, M. S.
-
-Hello! I'm a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State University. I look for innovative solutions in data processing such as the use of language models (such as chat GPT) in the business sphere and Semantic Web technologies (Knowledge Graphs, RDF , Wikibase).
-
-Simultaneously, I have been working on an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database, combining the best features of both paradigms.
-
-Additionally, I design workflows for extracting, transforming and loading data using PostgreSQL, Python programming and the low-code KNIME Analytics tool. I have experience with Machine Learning and Power BI interactive dashboards to transform data into insights! 
-
+<p align="justify" >
+Hello! I'm a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State University. I look for innovative solutions in data processing such as the use of language models (such as chat GPT) in the business sphere and Semantic Web technologies (Knowledge Graphs, RDF , Wikibase). Simultaneously, I have been working on an ecosystem of procedures and functions in PL/SQL for processing non-relational data coming from APIs and storing it in the relational database, combining the best features of both paradigms. Additionally, I design workflows for extracting, transforming and loading data using PostgreSQL, Python programming and the low-code KNIME Analytics tool. I have experience with Machine Learning and Power BI interactive dashboards to transform data into insights! 
+</p>
 💻📊 📈
-
-SOFT SKILLS
-
-Analytical thinking, problem solving, time management, continuous learning, proactivity, communication, storytelling and teamwork.
-
-HARD SKILLS
-
-* Advanced knowledge in Python programming, Data Extraction, Transformation and Loading (ETL), data cleaning, SQL storage procedures, interactive dashboards creation.
-* Intermediate knowledge in Machine Learning: GPT/LLMs/AI, Retrieved Augmented Generation (RAG), building Knowledge Graphs, regression, classification, clustering, natural language processing, model evaluation metrics.
-* Intermediate knowledge in Probability and Statistics, random variables, probability density function, hypothesis testing, linear algebra.
-
 
 ## Languages and Tools:
 
@@ -68,6 +53,19 @@ March 2021 - May 2023 (2 years 3 months) São Paulo-SP, Brazil
 ## Certifications
 [**IBM Data Science Professional Certification (v2)**](https://www.credly.com/badges/6efd515f-7553-4c12-b68b-34629b3d1cb6/public_url), 2023.
 <br> Demonstrated ability to solve real-world problems, apply Data Science methodology, create Python apps, access relational databases using SQL, generate data visualizations, construct & evaluate Machine Learning (ML) models using Scikit-learn.
+
+[**Kaggle Intermediate Machine Learning Certification**](https://www.kaggle.com/learn/certification/dimasjackson/intermediate-machine-learning), 2022.
+<br> The topics covered in this course are: dealing with missing values, Categorical variables, pipelines, cross-validation, XG Boost and Data Leakage.
+
+## Soft Skills
+
+Analytical thinking, problem solving, time management, continuous learning, proactivity, communication, storytelling and teamwork.
+
+## Hard Skills
+
+* Advanced knowledge in Python programming, Data Extraction, Transformation and Loading (ETL), data cleaning, SQL storage procedures, interactive dashboards creation.
+* Intermediate knowledge in Machine Learning: GPT/LLMs/AI, Retrieved Augmented Generation (RAG), building Knowledge Graphs, regression, classification, clustering, natural language processing, model evaluation metrics.
+* Intermediate knowledge in Probability and Statistics, random variables, probability density function, hypothesis testing, linear algebra.
 
  [Find me in Linkedin!](https://www.linkedin.com/in/dimas-jackson/)
  
