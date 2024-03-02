@@ -14,13 +14,14 @@ Hello! I'm a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State
 ![Static Badge](https://img.shields.io/badge/Scikit--learn-intermediate-yellow?logo=scikitlearn&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Wikibase-intermediate-yellow?logo=wikidata&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SPARQL-intermediate-yellow?logo=graphql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Git-intermediate-yellow?logo=git&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Linux-basic-blue?logo=linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Docker-basic-blue?logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bash-basic-blue?logo=gnubash&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Html-basic-blue?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cloud-basic-blue?logo=googlecloud&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Git-basic-blue?logo=git&logoColor=white)
+
 
 ## Professional Experience
 
