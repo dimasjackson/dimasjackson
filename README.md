@@ -4,6 +4,9 @@ Hello! I'm a Data Engineer at @Mackenzie and a PhD candidate at São Paulo State
 </p>
 💻📊 📈
 
+## Portfolio
+[My portfolio link!](http://dimasjackson.github.io)
+
 ## Languages and Tools:
 
 ![Static Badge](https://img.shields.io/badge/Python-advanced-green?logo=python&logoColor=white)
